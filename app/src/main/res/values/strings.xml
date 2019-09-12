@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Peminjaman Buku</string>
+
+    <string name="search_book">Cari Buku</string>
+
+    <string name="book_id">ID</string>
+    <string name="book_name">Judul Buku</string>
+    <string name="book_type">Jenis Buku</string>
+    <string name="book_year">Tahun Buku</string>
+    <string name="book_borrow">Pinjam</string>
+
+    <string name="selected">Anda memilih buku %s</string>
+    <string name="nik">NIK</string>
+    <string name="name">Nama</string>
+    <string name="date">Tanggal: %s</string>
+
+    <string name="book_error">Buku gagal diambil</string>
+    <string name="borrow_success">Data berhasil disimpan</string>
+    <string name="borrow_error">Data gagal disimpan</string>
+    <string name="connection_error">Koneksi bermasalah</string>
+</resources>
